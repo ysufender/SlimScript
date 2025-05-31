@@ -15,7 +15,7 @@ Also SlimScript is designed to be a language that is close to speaking. Meaning 
 
 ## Installing SlimScript
 
-Just go to the [Releases](https://github.com/The2ndSlimShady/SlimScript/releases) page and grab the installer of the last version,
+Just go to the [Releases](https://github.com/ysufender/SlimScript/releases) page and grab the installer of the last version,
 
 or;
 
@@ -813,7 +813,7 @@ write settings:AppInfo
 >Scripting Language for C#
 >Version: 1.0.3-alpha
 >Contributors:
->       The2ndSlimShady  - github.com/The2ndSlimShady/
+>       ysufender - github.com/ysufender/
 
 #### Changing the Values of Fields and Properties
 
@@ -1042,7 +1042,7 @@ Name: SlimScript
 Description: Small Embeddable Scripting Language for .NET
 Version: 1.0.5
 Contributors:
-        The2ndSlimShady - github.com/The2ndSlimShady/
+        ysufender - github.com/ysufender/
 
 Usage:
         SlimScript <file>
